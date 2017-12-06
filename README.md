@@ -3,7 +3,9 @@
 The demo runs on a [Jupyter notebook](http://jupyter.org) using `%%bash` cells
 and `IPython.display.Image` to insert the generated plots in the notebook.
 
-You can try it online (no install required) at http://gmt6demo.gmtpython.xyz
+You can try it online (no install required) at [gmt6demo.gmtpython.xyz](http://gmt6demo.gmtpython.xyz)
+or by clicking on this badge
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GenericMappingTools/gmt6demo/master?filepath=demo.ipynb)
 
 The online demo runs on [mybinder.org](https://mybinder.org/).
 
