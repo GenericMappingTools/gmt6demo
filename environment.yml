@@ -1,0 +1,13 @@
+name: gmt6demo
+channels:
+    - conda-forge/label/dev
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.6
+    - pip
+    - gmt=6.0.0*
+    - numpy
+    - pandas
+    - matplotlib
+    - jupyter
