@@ -1,5 +1,9 @@
 # GMT6 Demo: Modern mode and subplots
 
+This demo was made to accompany the AGU Fall Meeting 2017 talk
+"[The Generic Mapping Tools 6: Classic versus Modern Mode](https://agu.confex.com/agu/fm17/meetingapp.cgi/Paper/233558)"
+by [Paul Wessel](http://www.soest.hawaii.edu/wessel/).
+
 The demo runs on a [Jupyter notebook](http://jupyter.org) using `%%bash` cells
 and `IPython.display.Image` to insert the generated plots in the notebook.
 
